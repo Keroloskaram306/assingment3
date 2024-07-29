@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FacebookApp</string>
+    <string name="username">Unblast</string>
+    <string name="post_time">2 hrs</string>
+    <string name="email_or_phone_number">Email or Phone Number</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up_for_facebook">sign up for facebook</string>
+    <string name="help_center">help center</string>
+</resources>
